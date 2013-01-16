@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<ebank>
+  <gDecl></gDecl>
+  <gTxData>
+    <cHostCod>820001</cHostCod>
+    <cRspCod>SC0000</cRspCod>
+    <rescode>ISS0000</rescode>
+    <resmsg>成功</resmsg>
+  </gTxData>
+</ebank>

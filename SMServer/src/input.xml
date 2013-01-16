@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<ebank>
+	<gDecl></gDecl>
+	<gTxData>
+		<cHostCod>820001</cHostCod>
+		<srvid>02n1</srvid>
+		<branchno>337900</branchno>
+		<immedflag>1</immedflag>
+		<lastsndtime>0</lastsndtime>
+		<srvaccno>5218993370321278</srvaccno>
+		<objaddr>13819961784</objaddr>
+		<msgcont>交通银行手机动态密码：37sqhh；密码序号：54。您正在进行网上支付，支付金额为86.10元</msgcont>
+	</gTxData>
+</ebank>
